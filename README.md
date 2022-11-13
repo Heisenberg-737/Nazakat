@@ -1,4 +1,4 @@
-# Women-Essential
+# Nazakat
 The web application (Nazakat) is a one stop location to discuss about different medical milestones, AI Disease prediction system, and finally a translator to get the whole web app in the language one is comfortable with and hence dissolve any communication barrier. This solution with shorten the gap between the people around the world in search for good healthcare and pave a path in the journey of recovery. The web application offers different types of disease detection such as Heart Disease, Kidney disease etc. for early detection of the disease. 
 
 # Main Features
