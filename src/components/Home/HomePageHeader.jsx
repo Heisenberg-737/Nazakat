@@ -1,12 +1,11 @@
 import React from "react";
 import styled from "styled-components";
-
+import woman from "../../Assets/woman.png";
 
 const Container = styled.div`
   width: 100%;
   height: 80vh;
- 
-  
+  background-image: url("https://www.fticonsulting.com/~/media/Images/shared-content/insights/fti-journal/2019/jan/investors-eye-growing-womens-health-market_911x476.jpg");
   background-size: cover;
   display: flex;
   justify-content: space-around;
@@ -25,7 +24,7 @@ const Container = styled.div`
       margin: 0;
     }
   }
- 
+
   .right {
     width: 40%;
     height: 100%;
@@ -76,8 +75,6 @@ const Container = styled.div`
 function HomePageHeader() {
   return (
     <Container>
-      <img src="../../Assets/woman.png" alt="Girl in a jacket" width="100%" height="80 vh">
-
       <div className="left">
         <h1>Nazakat</h1>
         <small>An all-in-one women health platform.</small>
