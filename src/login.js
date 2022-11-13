@@ -6,7 +6,7 @@ const Login = (props) => {
     return (
         <section className="login">
             <div className="loginContainer">
-                <h1 className="Women-Essentials-Heading">Women Essentials</h1>
+                <h1 className="Women-Essentials-Heading">Nazakats</h1>
                 <label>Email</label>
                 <input type="text" placeholder="test@gmail.com" outoFocus required value={email} onChange={(e) => setEmail(e.target.value)} />
                 <p className="errorMsg">{emailError}</p>

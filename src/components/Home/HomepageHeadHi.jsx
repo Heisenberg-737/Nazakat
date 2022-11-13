@@ -74,7 +74,7 @@ function HomePageHeader() {
   return (
     <Container>
       <div className="left">
-        <h1>Women Essential</h1>
+        <h1>Nazakat</h1>
         <small>एक ऑल-इन-वन महिला स्वास्थ्य मंच</small>
       </div>
       <div className="right">
