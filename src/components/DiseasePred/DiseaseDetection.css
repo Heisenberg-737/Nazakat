@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -8,6 +8,7 @@
 body {
     justify-content: center;
     align-items: center;
+    background-color: #CAC5B5;
 }
 
 .heading {
@@ -15,8 +16,8 @@ body {
     font-size: 36px;
     align-items: center;
     text-align: center;
-    font-family: "Source Serif Pro", serif;
-    color: rgb(44, 233, 70);
+    font-family: 'Merriweather', serif;
+    color: #22342F;
 }
 
 .work-exp-list {
@@ -122,14 +123,14 @@ body {
     font-size: 1.4em;
     margin: 0 0 0.3em;
     color: #312a2e;
-    font-family: "Source Serif Pro", serif;
+    font-family: 'Merriweather', serif;
     font-weight: bolder;
 }
 
 .exp__status {
     font-size: 1em;
     color: #1a1517;
-    font-family: "Source Serif Pro", serif;
+    font-family: 'Merriweather', serif;
     font-weight: bold;
 }
 
@@ -141,7 +142,7 @@ body {
     -webkit-box-orient: vertical;
     text-align: justify;
     overflow: hidden;
-    font-family: "Source Serif Pro", serif;
+    font-family: 'Merriweather', serif;
     font-weight: lighter;
 }
 

@@ -1,15 +1,16 @@
 import React from "react";
 import "./DiseaseDetection.css";
-import BreastCancer from "../../Assets/BreastCancer.jfif"
-import Diabeties from "../../Assets/Diabeties.jpg"
+import BreastCancer from "../../Assets/breastcancer.jpg"
+import Diabeties from "../../Assets/diabetes.jpg"
 import KidneyDisease from "../../Assets/kidney.jpg"
 import Heart from "../../Assets/heart.jpg"
+
 
 function DiseaseDetection() {
     return (
         <>
             <div className="heading">
-                <h1>Disease Detection</h1>
+                <h1>DISEASE DETECTION</h1>
             </div>
 
             <div className="work-exp">
